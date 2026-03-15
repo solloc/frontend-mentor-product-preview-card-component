@@ -62,6 +62,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
+I used the `picture` element for the first time for the two alternatives. I struggled with a different height for the picture which resulted in a white bottom gap.
+
+The fix was adding `display: block` to the `img` inside.
+
+Source: [stackoverflow.com/questions/38361657/why-does-my-html5-picture-have-a-height-outside-of-its-img-and-why-does-it-n](https://stackoverflow.com/questions/38361657/why-does-my-html5-picture-have-a-height-outside-of-its-img-and-why-does-it-n)
+
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
