@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/solloc/frontend-mentor-product-preview-card-component](https://github.com/solloc/frontend-mentor-product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [solloc.github.io/frontend-mentor-product-preview-card-component](https://solloc.github.io/frontend-mentor-product-preview-card-component/)
 
 ## My process
 
