@@ -115,6 +115,11 @@ img {
 footer { 
     font-size: 11px; 
     text-align: center; 
+    /* display: flex; */
+
+    span {
+        text-wrap: nowrap;
+    }
 
     a { 
         color: var(--color-green-700)
